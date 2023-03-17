@@ -1,0 +1,32 @@
+a{
+    display: blok;
+   width: 40px; 
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight:700;
+   background-color: rgb(12, 13, 14);
+   border-radius:10px;
+   padding: 15px 30px;
+   text-align: center;
+   margin:4px 2px;
+   color:rgb(238, 231, 231) ;
+    text-decoration:none ;
+    cursor: pointer;
+}
+a:hover{
+    background-color: transparent;
+    border: 1px solid rgb(64, 179, 194);
+    color: rgb(30, 32, 32);
+
+}
+
+body {
+    background-image: url(https://herodotoycia.files.wordpress.com/2018/03/3078326.jpg);
+    color:aqua;
+    
+
+}
+<p> {
+    color: rgb(43, 41, 43);
+} 
+body {color: rgb(36, 35, 36);}
+

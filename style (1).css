@@ -1,0 +1,85 @@
+a{
+    display: blok;
+   width: 40px; 
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight:700;
+   background-color: rgb(12, 13, 14);
+   border-radius:10px;
+   padding: 15px 30px;
+   text-align: center;
+   margin:4px 2px;
+   color:rgb(238, 231, 231) ;
+    text-decoration:none ;
+    cursor: pointer;}
+    
+a:hover{
+    background-color: transparent;
+    border: 1px solid rgb(64, 179, 194);
+    color: rgb(5, 107, 107);
+
+}
+
+body {
+    background-image: url(https://agencia.fapesp.br/agencia-novo/imagens/noticia/20029.jpg);
+    color:rgb(15, 15, 15);
+        font-size: 20px;
+    
+    }
+    
+
+
+p{
+    color: rgb(18, 18, 19);
+} 
+
+body {color: rgb(7, 7, 7);}
+
+label{
+    display: block;
+    padding: 7px;
+    border-radius: 7px;
+    cursor: pointer;
+    border: 1px dashed #ccc;
+    margin-bottom: 3px;
+
+}
+
+label:hover{
+   background: #cec0fc;
+
+
+}
+button{
+   width: 15%;
+   display:  block;
+   margin: auto;
+   padding: 10px;
+   
+   background-color: #a4bbfd;
+   border: none;
+   border-radius: 20px;
+}
+
+button:hover{
+   background: #000;
+   color: #fff;
+
+}
+
+h2{
+   text-align: center;
+   color: #dad9be;
+
+
+}
+
+#resultado{
+   font-size: 30px;
+}
+
+.container1 {
+    background-color: #948544;
+    max-width: 50%;
+    margin-top: 5%;
+    margin-left: 22%;
+}
